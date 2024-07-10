@@ -163,5 +163,3 @@ cat root.txt
 - You will get the **ROOT FLAG** 🏁
 
 ---
-
-This version includes emojis for visual appeal and ensures proper formatting for clarity.
