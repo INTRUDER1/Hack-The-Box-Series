@@ -1,9 +1,3 @@
-Here's a more attractive version of your markdown file with emojis and proper alignment:
-
----
-
-# 📝 Detailed Report of Editorial HTB
-
 ## Step 1: Connect to the VPN
 
 ```sh
