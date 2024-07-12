@@ -1,0 +1,5 @@
+# Dirsearch started Sun Jul  7 22:47:27 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://mailing.htb/ -x 403,404,400
+
+301   160B   http://mailing.htb/assets    -> REDIRECTS TO: http://mailing.htb/assets/
+200   541B   http://mailing.htb/assets/
+200    31B   http://mailing.htb/download.php

